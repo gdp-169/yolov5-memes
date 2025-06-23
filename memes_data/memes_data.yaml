@@ -1,0 +1,13 @@
+
+
+train: /home/images/train
+
+#val: /home/images/val
+val: D:/code/python/yolov5-master/memes_data/images/test
+
+test: D:/code/python/yolov5-master/memes_data/images/test
+
+nc: 2
+
+names: ['chaijun', 'doro']
+
